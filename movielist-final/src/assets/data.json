@@ -1,0 +1,36 @@
+{
+  "mylist": [
+    {
+      "title": "Gilmore Girls",
+      "img": "http://cdn1.nflximg.net/webp/7451/11317451.webp",
+      "id": 5
+    },
+    {
+      "title": "Futurama",
+      "img": "http://cdn1.nflximg.net/webp/7621/3787621.webp",
+      "id": 7
+    },
+    {
+      "title": "The Interview",
+      "img": "http://cdn1.nflximg.net/webp/1381/11971381.webp",
+      "id": 8
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "Friends",
+      "img": "http://cdn0.nflximg.net/webp/3200/9163200.webp",
+      "id": 9
+    },
+    {
+      "title": "Family Guy",
+      "img": "http://cdn5.nflximg.net/webp/5815/2515815.webp",
+      "id": 10
+    },
+    {
+      "title": "The Croods",
+      "img": "http://cdn3.nflximg.net/webp/2353/3862353.webp",
+      "id": 11
+    }
+  ]
+}
